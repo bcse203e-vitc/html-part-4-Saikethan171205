@@ -1,0 +1,33 @@
+body {
+    margin: 20px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f9f9f9;
+}
+h1 {
+    color: darkgreen;
+    margin-bottom: 40px;
+}
+.box {
+    width: 300px;
+    margin: 20px auto;
+    background-color: #fff;
+    color: #333;
+}
+.box1 {
+    background-color: #e0ffe0;
+    border: 2px dashed green;
+    padding: 10px;
+    margin: 40px auto;
+}
+.box2 {
+    background-color: #fffbe0;
+    border: 5px solid orange;
+    padding: 20px;
+    margin: 30px auto;
+}
+.box3 {
+    background-color: #e0f0ff;
+    padding: 40px;
+    margin: 20px auto;
+}
